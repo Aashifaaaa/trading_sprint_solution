@@ -1,0 +1,7 @@
+id,symbol,instrument_name,asset_class,currency,exchange,tradable
+101,INFY.NS,Infosys Limited,EQUITY,INR,NSE,true
+102,RELIANCE.NS,Reliance Industries,EQUITY,INR,NSE,true
+103,TATASTEEL.BO,Tata Steel Limited,EQUITY,INR,BSE,true
+104,HDFCBANK.NS,HDFC Bank Limited,EQUITY,INR,NSE,true
+105,OLDCO.BO,OldCo Retired Security,EQUITY,INR,BSE,false
+106,NIFTYBEES.NS,Nippon India ETF Nifty BeES,ETF,INR,NSE,true

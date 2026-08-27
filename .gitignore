@@ -1,0 +1,22 @@
+# Secrets
+.env
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Analytics cache / database
+.cache/
+*.duckdb
+*.duckdb.wal
+
+# Generated charts
+sprint-04-analytics-etl/artefacts/*.png
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
